@@ -1,2 +1,2 @@
 # SDA
-Structuri de date și algitmi
+Structuri de date și algoritmi
